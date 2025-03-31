@@ -9,5 +9,9 @@
         }
       ]
     }
-  ]
+  ],
+  "public": true,
+  "env": {
+    "PUBLIC_URL": "/"
+  }
 }
